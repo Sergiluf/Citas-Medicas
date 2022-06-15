@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CITAS MEDICAS.iml" filepath="$PROJECT_DIR$/.idea/CITAS MEDICAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metaenlace_citas_medicas/citas_medicas.iml" filepath="$PROJECT_DIR$/metaenlace_citas_medicas/citas_medicas.iml" />
+    </modules>
+  </component>
+</project>
